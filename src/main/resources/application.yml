@@ -1,0 +1,6 @@
+server:
+  port: 9090
+
+user:
+  id: admin
+  password: 123
